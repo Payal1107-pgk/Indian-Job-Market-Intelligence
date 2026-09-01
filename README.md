@@ -1,10 +1,12 @@
 # 🇮🇳 Indian Job Market Intelligence
 
-An end-to-end data analytics project analyzing the Indian job market using Python, SQL, and Power BI.
+An end-to-end data analytics project analyzing the Indian job market using **Python, SQL, and Power BI**.
 
 ## 📊 Project Overview
 
-This project analyzes job market data to identify:
+This project analyzes Indian job market data to identify important employment trends and generate actionable insights.
+
+The analysis focuses on:
 
 - Most demanded skills
 - Job opportunities by location
@@ -14,7 +16,9 @@ This project analyzes job market data to identify:
 - Skill demand distribution
 - Top companies and job roles
 
-The project transforms raw job-market data into meaningful business insights through data cleaning, analysis, and interactive visualization.
+The project transforms raw job-market data into meaningful business insights through **data cleaning, exploratory analysis, SQL querying, and interactive Power BI visualization**.
+
+---
 
 ## 🎯 Objectives
 
@@ -22,21 +26,26 @@ The project transforms raw job-market data into meaningful business insights thr
 - Identify high-demand skills
 - Understand salary and experience trends
 - Compare job opportunities across locations
+- Analyze job posting patterns
 - Build an interactive Power BI dashboard
 - Generate actionable insights from job-market data
+
+---
 
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
-|---|---|
+|------|---------|
 | Python | Data cleaning and analysis |
 | Pandas | Data manipulation |
 | NumPy | Numerical analysis |
-| SQL | Data querying |
+| SQL | Data querying and analysis |
 | SQLite | Database analysis |
 | Power BI | Interactive dashboard |
-| Jupyter Notebook | Exploratory analysis |
+| Jupyter Notebook | Exploratory data analysis |
 | GitHub | Project version control |
+
+---
 
 ## 📁 Project Structure
 
@@ -51,6 +60,7 @@ Indian-Job-Market-Intelligence/
 │   └── dataexploration2.ipynb
 │
 ├── powerbi/
+│   └── README.md
 │
 ├── screenshots/
 │   ├── job_market_overview.png
